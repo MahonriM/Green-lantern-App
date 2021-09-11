@@ -1,0 +1,1 @@
+# Green-lantern-AppThis app made in Android with Java. I create a lantern app when you open the app appears a message in which tell you if you give to the app permission then when you give and accept the permission you can use the app. It is going to appear the Green Lantern Oath and then when you click that is going to appear the lantern of green lantern
